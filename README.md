@@ -2,7 +2,7 @@
 - 👀 I’m interested in being a front web developer
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me pausiroy@gmail.com
 
 <!---
 pausiroy/pausiroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
